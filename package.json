@@ -10,7 +10,7 @@
     "@types/aws-sdk": "^2.7.0",
     "@types/node": "^13.1.1",
     "@types/request": "^2.48.4",
-    "aws-lambda": "^1.0.4",
+    "aws-lambda": "^1.0.5",
     "aws-sdk": "^2.596.0",
     "request": "^2.88.0",
     "typescript": "^3.7.4"
